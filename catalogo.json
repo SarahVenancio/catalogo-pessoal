@@ -46,5 +46,21 @@
     "ano": 2001,
     "duracao": "1h51m",
     "imagem": "https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/10/07105215/O-Diario-da-Princesa-Anne-Hathway-1.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Uma Sexta-Feira Muito Louca",
+    "genero": "Infantil/Comédia",
+    "ano": 2003,
+    "duracao": "1h37m",
+    "imagem": "https://nerdizmo.ig.com.br/wp-content/uploads/2024/03/sexta-feira-muito-louca-tera-sequencia.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "O Sorriso de Mona Lisa",
+    "genero": "Romance/Comédia",
+    "ano": 2003,
+    "duracao": "1h57m",
+    "imagem": "https://www.planocritico.com/wp-content/uploads/2019/04/717-O-Sorisso-de-Monalisa.jpg"
   }
 ]
