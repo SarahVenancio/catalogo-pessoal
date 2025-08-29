@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Diabo Veste Prada",
+    "genero": "Comédia/Drama",
+    "ano": 2006,
+    "duracao": "1h49m",
+    "imagem": "https://bravo.abril.com.br/wp-content/uploads/2024/07/diabo-veste-prada.jpg?quality=70&strip=info"
+  },
+  {
+    "id": 2,
+    "titulo": "Adoráveis Mulheres",
+    "genero": "Romance/Drama",
+    "ano": 2019,
+    "duracao": "2h15m",
+    "imagem": "https://m.media-amazon.com/images/S/pv-target-images/8bd9c7f4d5466f0a44cc78914e1f8646dc2ad9115c8bf9e318acbe9a4c449923._SX1080_FMjpg_.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Viúva Negra",
+    "genero": "Ação/Ficção científica",
+    "ano": 2021,
+    "duracao": "2h13m",
+    "imagem": "https://lumiere-a.akamaihd.net/v1/images/1920x1080_logo_d3a5a5f4.png?region=0,0,1920,1080&width=960"
+  },
+  {
+    "id": 4,
+    "titulo": "Oito Mulheres e um Segredo",
+    "genero": "Comédia/Crime",
+    "ano": 2018,
+    "duracao": "1h51m",
+    "imagem": "https://lightbox-prod.imgix.net/images/assets/BANNER_LANDSCAPE_mac_11170047_E272BC2B-0933-4003-82BA225AF037B22B.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "A Escolha Perfeita 2",
+    "genero": "Comédia/Musical",
+    "ano": 2015,
+    "duracao": "1h55m",
+    "imagem": "https://www.cafecomfilme.com.br/images/criticas/0815/escolhaperfeita2_7c578.jpeg"
+  },
+  {
+    "id": 6,
+    "titulo": "O Diário da Princesa",
+    "genero": "Infantil/Comédia",
+    "ano": 2001,
+    "duracao": "1h51m",
+    "imagem": "https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/10/07105215/O-Diario-da-Princesa-Anne-Hathway-1.jpg"
+  }
+]
