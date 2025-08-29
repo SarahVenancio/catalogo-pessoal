@@ -14,6 +14,8 @@
 
 Ideal para fãs de filmes com mulheres protagonistas!
 
+![alt text](image.png)
+
 ---
 
 ## ✨ Funcionalidades
